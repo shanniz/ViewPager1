@@ -9,4 +9,13 @@
         android:icon="@drawable/baseline_grade_black_18dp"
         app:showAsAction="ifRoom"></item>
 
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/actionTheme"
+        android:title="@string/selectTheme"
+       />
+
+
 </menu>
